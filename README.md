@@ -1,4 +1,4 @@
-![Bookstore Demo](https://github.com/sisodia-akshit/sisodia-akshit/gifss.gif)
+![Bookstore Demo](./gifss.gif)
 
 # Hi 👋, I'm Akshit Sisodiya
 
