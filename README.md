@@ -42,14 +42,11 @@ Full-stack bookstore with authentication, cart, orders, and admin management.
 - Architected separate React applications for storefront and admin panel.
 - Deployed frontend (Netlify) and backend (Render) with MongoDB Atlas.
 
-```bash
 🔗 Live Demo(Admin Dashboard): https://admin-dashboard-by-akshit.netlify.app
 🔗 Live Demo(StoreFront): https://bookstore-akshit.netlify.app
-```
-```bash
+
 🔗 GitHub Repo(Admin Dashboard): github.com/sisodia-akshit/admin-dashboard   
 🔗 GitHub Repo(StoreFront): https://github.com/sisodia-akshit/mern-bookstore
-``` 
 ---
 
 ### Real-Time Chat Application | Next + Socket.io + Full Stack
@@ -61,10 +58,9 @@ Full-stack bookstore with authentication, cart, orders, and admin management.
 - Deployed frontend on Vercel with production environment variables.
 
 Tech Stack: Next.js, React, Node.js, Express, WebSocket / Socket.IO, MongoDB (if used), Axios, Vercel, Git 
-```bash
+
 Live Demo: chat-application.app
 GitHub: github.com/sisodia-akshit/chat-application 
-```
 ---
 
 ### 🌐 Personal Portfolio Website
@@ -89,7 +85,7 @@ Maharaja Surajmal Brij University, Bharatpur
 
 ## 📫 Contact Me
 
-- 📧 Email: aakshit905@gmail.com  
+- 📧 Email: akshit.sisodia.dev@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/akshit-sisodia-6732602aa  
 - 🌐 Portfolio: https://sisodia-akshit.github.io/portfolio2  
 
