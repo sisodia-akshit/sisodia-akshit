@@ -2,42 +2,69 @@
 
 # Hi 👋, I'm Akshit Sisodiya
 
-🚀 MERN Stack Developer
+🚀 Full Stack MERN Developer 
 📍 Bharatpur, Rajasthan, India  
 
-I am a passionate MERN Stack Developer with hands-on experience building full-stack web applications using React, Node.js, Express, and MongoDB. I enjoy creating clean UIs, writing scalable APIs, and learning new technologies.
+ Full Stack MERN Developer with hands-on experience building and deploying secure web applications 
+using REST APIs, JWT authentication and role-based access control. Proficient in React, Node.js, Express, and 
+MongoDB. 
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-React.js, JavaScript (ES6), HTML5, CSS3  
+**Laguage:**
+JavaScript, TypeScript
 
-**Backend:**  
-Node.js, Express.js, REST APIs, JWT Authentication  
+**Frameworks:**  
+React.js, Node.js, Exress   
 
 **Database:**  
-MongoDB, Mongoose  
+MongoDB, Mongoose 
 
-**Tools & Platforms:**  
-Git, GitHub, Postman, Netlify, Render, Cloudinary  
+**Authentication & Security:**
+JWT, Refresh Tokens, httpOnly Cookies, RBAC 
+
+**Tools & Deployment:**  
+Git, GitHub, Postman, Netlify, Render, Cloudinary, Vercel 
 
 ---
 
 ## 📌 Featured Projects
 
-### 📚 MERN Bookstore Application
+### 📚 E-commerce Platform | MERN Stack
 Full-stack bookstore with authentication, cart, orders, and admin management.
 
-- Role-based authentication (JWT)
-- REST APIs for users, books, cart, and orders
-- Cloudinary image upload integration
-- Deployed on Netlify (frontend) & Render (backend)
+- Built full-stack web app with cart management, order lifecycle, admin dashboard. 
+- Developed 15+ RESTful API endpoints supporting authentication, cart, order, and analytics. 
+- Implemented secure JWT authentication using httpOnly cookies with refresh token rotation. 
+- Designed role-based access control (RBAC) using Express middleware.
+- Architected separate React applications for storefront and admin panel.
+- Deployed frontend (Netlify) and backend (Render) with MongoDB Atlas.
 
-🔗 Live Demo: https://bookstore-akshit.netlify.app  
-🔗 GitHub Repo: https://github.com/sisodia-akshit/mern-bookstore  
+```bash
+🔗 Live Demo(Admin Dashboard): https://admin-dashboard-by-akshit.netlify.app
+🔗 Live Demo(StoreFront): https://bookstore-akshit.netlify.app
+```
+```bash
+🔗 GitHub Repo(Admin Dashboard): github.com/sisodia-akshit/admin-dashboard   
+🔗 GitHub Repo(StoreFront): https://github.com/sisodia-akshit/mern-bookstore
+``` 
+---
 
+### Real-Time Chat Application | Next + Socket.io + Full Stack
+
+- Built a real-time chat application using Next.js and WebSocket.
+- Implemented live messaging with persistent backend integration.
+- Developed responsive chat UI with dynamic user listing.
+- Designed conversation and message schema with MongoDB.
+- Deployed frontend on Vercel with production environment variables.
+
+Tech Stack: Next.js, React, Node.js, Express, WebSocket / Socket.IO, MongoDB (if used), Axios, Vercel, Git 
+```bash
+Live Demo: chat-application.app
+GitHub: github.com/sisodia-akshit/chat-application 
+```
 ---
 
 ### 🌐 Personal Portfolio Website
@@ -63,7 +90,7 @@ Maharaja Surajmal Brij University, Bharatpur
 ## 📫 Contact Me
 
 - 📧 Email: aakshit905@gmail.com  
-- 💼 LinkedIn: (add your LinkedIn profile link here)  
+- 💼 LinkedIn: https://www.linkedin.com/in/akshit-sisodia-6732602aa  
 - 🌐 Portfolio: https://sisodia-akshit.github.io/portfolio2  
 
 ---
