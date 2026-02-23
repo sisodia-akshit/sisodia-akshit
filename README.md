@@ -45,8 +45,9 @@ Full-stack bookstore with authentication, cart, orders, and admin management.
 🔗 Live Demo(Admin Dashboard): https://admin-dashboard-by-akshit.netlify.app
 🔗 Live Demo(StoreFront): https://bookstore-akshit.netlify.app
 
-🔗 GitHub Repo(Admin Dashboard): github.com/sisodia-akshit/admin-dashboard   
+🔗 GitHub Repo(Admin Dashboard): https://github.com/sisodia-akshit/admin-dashboard   
 🔗 GitHub Repo(StoreFront): https://github.com/sisodia-akshit/mern-bookstore
+
 ---
 
 ### Real-Time Chat Application | Next + Socket.io + Full Stack
@@ -61,6 +62,7 @@ Tech Stack: Next.js, React, Node.js, Express, WebSocket / Socket.IO, MongoDB (if
 
 Live Demo: chat-application.app
 GitHub: github.com/sisodia-akshit/chat-application 
+
 ---
 
 ### 🌐 Personal Portfolio Website
