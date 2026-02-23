@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Akshit Sisodiya
 
-🚀 MERN Stack Developer (Fresher)  
+🚀 MERN Stack Developer
 📍 Bharatpur, Rajasthan, India  
 
 I am a passionate MERN Stack Developer with hands-on experience building full-stack web applications using React, Node.js, Express, and MongoDB. I enjoy creating clean UIs, writing scalable APIs, and learning new technologies.
